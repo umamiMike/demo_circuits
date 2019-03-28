@@ -4,7 +4,7 @@ EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 2
+Sheet 1 3
 Title ""
 Date ""
 Rev ""
@@ -31,4 +31,10 @@ F 3 "http://www.cypress.com/?docID=49119" H 8850 2650 50  0001 C CNN
 	1    8850 2650
 	1    0    0    -1  
 $EndComp
+$Sheet
+S 2600 5400 2050 1350
+U 5C9DC555
+F0 "Sheet5C9DC554" 50
+F1 "./test/test .sch" 50
+$EndSheet
 $EndSCHEMATC
